@@ -17,6 +17,8 @@ h1{
 .image{
 	display:flex;
 	justify-content:center;
+}
+img{
 	background-color:rgb(46, 204, 113);
 }
 .author{
