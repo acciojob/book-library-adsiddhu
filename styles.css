@@ -18,7 +18,6 @@ h1{
 .image{
 	display:flex;
 	justify-content:center;
-	color:rgb(46, 204, 113);
 }
 .author{
 	margin:16px;
